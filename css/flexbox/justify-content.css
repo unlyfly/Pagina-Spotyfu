@@ -1,0 +1,9 @@
+.justifyContent{
+    display: flex;
+    /* justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 2rem; */
+    /* flex-direction: column; */
+    block-size: 100px;
+    align-items: flex-start;
+}

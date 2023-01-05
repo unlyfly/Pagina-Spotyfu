@@ -1,0 +1,17 @@
+.flex{
+    display: flex;
+}
+
+.flex > *{
+    /* border: 1px solid red !important;
+    flex-grow: 2;
+    flex-basis: 8rem;
+    padding: 1rem !important; */
+}
+
+/* .flex > p{
+    flex-grow: 1;
+    flex-basis: 4rem;
+    border: 1px solid green !important;
+} */
+
